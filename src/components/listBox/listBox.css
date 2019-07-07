@@ -1,0 +1,10 @@
+.list-box-container{
+    height: 40px;
+    display: block;
+}
+
+.rectangle {
+	height: 40px;
+	width: 329px;
+	background-color: #3B78BD;
+}
